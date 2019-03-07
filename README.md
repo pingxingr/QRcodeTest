@@ -1,5 +1,4 @@
 # QRcodeTest
-trying QR code scanning by using
-https://github.com/dm77/barcodescanner
+trying QR code scanning
 
 ![](QRcodetest1.gif)
